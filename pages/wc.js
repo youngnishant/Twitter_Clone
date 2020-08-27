@@ -3,7 +3,7 @@ export default function wc(){
     return(<>
     <nav className="bg-white  shadow-b shadow-md flex items-center justify-between sm:px-8 sm:py-2 px-4 py-1">
         <div className="sm:text-4xl text-3xl  tracking-tight">
-        <span className="text-pink-400  font-bold">What's</span>  <span className="text-gray-800  font-bold">Cookin;</span>
+        <span className="text-pink-400  font-bold">What's</span>  <span className="text-gray-800  font-bold">Cookin'</span>
         </div>
         <div className="md:flex hidden">
             <div className="text-pink-400 text-sm font-bold text-center "><span>Start a new Group</span><br/><span>50% off</span></div>
